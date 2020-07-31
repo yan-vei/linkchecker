@@ -1,0 +1,5 @@
+Twitter - #navigation-index > ul > li:nth-child(9) > a > i - nexchangeCC
+Youtube - #navigation-index > ul > li:nth-child(10) > a > i - Set up your own DEX
+Facebook - #navigation-index > ul > li:nth-child(11) > a > i - n.exdddfdchange
+Slack - #navigation-index > ul > li:nth-child(12) > a > i - nexchangecommunity
+Telegram - #navigation-index > ul > li:nth-child(13) > a > i - F5JKfhGOMrzDKsJSmPbf9Q

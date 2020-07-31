@@ -1,0 +1,34 @@
+1596191875427	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Yana\\AppData\\Local\\Temp\\rust_mozprofilePSDlxo"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596191879299	Marionette	INFO	Listening on port 63081
+1596191879543	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6A0029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+1596191896224	Marionette	INFO	Stopped listening on port 63081
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596191938716	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Yana\\AppData\\Local\\Temp\\rust_mozprofilem3u3E7"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596191943563	Marionette	INFO	Listening on port 63160
+1596191943946	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 13712, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1596192104052	Marionette	INFO	Stopped listening on port 63160
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596208910349	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Yana\\AppData\\Local\\Temp\\rust_mozprofileOiNrxY"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596208927145	Marionette	INFO	Listening on port 50579
+1596208927230	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596208944554	Marionette	INFO	Stopped listening on port 50579
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
